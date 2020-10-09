@@ -1,0 +1,21 @@
+version: "3"
+
+services:
+  mssql-dev:
+    image: mcr.microsoft.com/mssql/server:2019-CU6-ubuntu-16.04
+    container_name: mssql-dev
+    restart: on-failure
+    environment:
+      - "ACCEPT_EULA=Y"
+      - "SA_PASSWORD=pass123!"
+    ports:
+      - "1401:1433"
+  mssql-test:
+    image: mcr.microsoft.com/mssql/server:2019-CU6-ubuntu-16.04
+    container_name: mssql-test
+    restart: on-failure
+    environment:
+      - "ACCEPT_EULA=Y"
+      - "SA_PASSWORD=pass123!"
+    ports:
+      - "1402:1433"

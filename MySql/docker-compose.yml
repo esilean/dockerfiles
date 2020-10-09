@@ -1,0 +1,15 @@
+version: "3"
+
+services:
+  mysql-dev:
+    image: mysql:8.0.17
+    environment:
+      MYSQL_ROOT_PASSWORD: pass123!
+    ports:
+      - "3306:3306"
+  mysql-test:
+    image: mysql:8.0.17
+    environment:
+      MYSQL_ALLOW_EMPTY_PASSWORD: 1
+    ports:
+      - "3307:3306"
