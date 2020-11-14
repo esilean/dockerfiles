@@ -1,0 +1,18 @@
+2020-11-14 13:30:18.2007||DEBUG|NLog.Api.Program|init main 
+2020-11-14 13:30:19.4639||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2020-11-14 13:30:19.4727||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2020-11-14 13:30:19.4727||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-11-14 13:30:19.4727||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-11-14 13:30:19.4727||INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Workspaces\Apps\nlog\NLog\NLog.Api 
+2020-11-14 13:31:11.2744||DEBUG|NLog.Api.Program|init main 
+2020-11-14 13:31:12.4213||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2020-11-14 13:31:12.4213||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2020-11-14 13:31:12.4213||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-11-14 13:31:12.4213||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-11-14 13:31:12.4213||INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Workspaces\Apps\nlog\NLog\NLog.Api 
+2020-11-14 13:31:30.7593||DEBUG|NLog.Api.Program|init main 
+2020-11-14 13:31:32.0262||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2020-11-14 13:31:32.0316||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2020-11-14 13:31:32.0316||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-11-14 13:31:32.0316||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-11-14 13:31:32.0316||INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Workspaces\Apps\nlog\NLog\NLog.Api 
